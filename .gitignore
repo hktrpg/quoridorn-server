@@ -1,2 +1,12 @@
 .dist
 \node_modules
+\dist
+.env
+config/server.yaml
+\logs\
+config/server.yaml
+config/server.yaml
+logs/system.log
+logs/error.log
+logs/access.log
+config/server.yaml
