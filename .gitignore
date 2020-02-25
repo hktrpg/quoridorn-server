@@ -1,12 +1,6 @@
-.dist
-\node_modules
+config\server.yaml
 \dist
+\node_modules
 .env
-config/server.yaml
-\logs\
-config/server.yaml
-config/server.yaml
-logs/system.log
-logs/error.log
-logs/access.log
+\logs
 config/server.yaml
